@@ -1,0 +1,27 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(0, 0, 0);
+  color: white;
+}
+button{
+  height: 120px;
+  width: 120px;
+  background-color: rgba(32, 14, 14, 0);
+  border: 2px solid  white;
+  border-radius: 50% ;
+}
+.js-result{
+  font-size: 26px;
+  font-weight: 600;
+}
+
+.reset{
+  background-color: white;
+  border: none;
+  border-radius: 0%;
+  height: 35px;
+  width: 100px;
+}
+img{
+  height: 40px;
+}
